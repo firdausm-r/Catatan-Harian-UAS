@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "254347275503",
+    "project_id": "catatan-harian-b8173",
+    "storage_bucket": "catatan-harian-b8173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254347275503:android:df55c44034159af61fbf1a",
+        "android_client_info": {
+          "package_name": "com.firdaus.catatanharian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254347275503-tkvkp19icl057ja0stojl0m50n42u023.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firdaus.catatanharian",
+            "certificate_hash": "86147a64d46c9e0a85be48fbb339cfd168df831c"
+          }
+        },
+        {
+          "client_id": "254347275503-52ituhl6b12huo26s9b2t51a8cfbd9dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEW9LKXQtGY7TEIGKnLU1e3UY3gI-xKuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254347275503-52ituhl6b12huo26s9b2t51a8cfbd9dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
